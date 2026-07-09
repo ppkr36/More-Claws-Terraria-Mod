@@ -1,22 +1,9 @@
 [h1]More Claws[/h1]
 
+
 More Claws is a progression-based tModLoader mod that adds a new line of digging claws to Terraria.
 
-Digging claws are designed as fast mining tools with reduced range. They are meant to be useful for mining and exploration, while regular pickaxes still remain better for building and precise block work.
 
-[h2]Current content[/h2]
-[list]
-[*]Copper Claws
-[*]Copper Claws as a starting item
-[/list]
+More Claws — мод с прогрессией который добавляет множество новых шахтёрских когтей в игру
 
-[h2]Planned content[/h2]
-[list]
-[*]18 new digging claws
-[*]Full early-game to endgame progression
-[*]Hallowed Claws
-[*]Zenith Claws
-[/list]
-
-[h2]Status[/h2]
-This mod is currently in early development.
+Когти быстрее обычных кирок своего этапа, но имеют уменьшенную дальность.

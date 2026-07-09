@@ -1,4 +1,3 @@
-Initial release:
-- Added Copper Claws
-- Added Copper Claws as a starting item
-- Added basic recipe
+- 0.2.0
+- added full pre-hardmod claw progression
+- добавлена вся пре-хардмодная прогрессия когтей

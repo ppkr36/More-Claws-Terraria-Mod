@@ -3,4 +3,54 @@ Items: {
 		DisplayName: Copper Claw
 		Tooltip: ""
 	}
+
+	TinClaw: {
+		DisplayName: Tin Claw
+		Tooltip: ""
+	}
+
+	TungstenClaw: {
+		DisplayName: Tungsten Claw
+		Tooltip: ""
+	}
+
+	SilverClaw: {
+		DisplayName: Silver Claw
+		Tooltip: ""
+	}
+
+	IronClaw: {
+		DisplayName: Iron Claw
+		Tooltip: ""
+	}
+
+	LeadClaw: {
+		DisplayName: Lead Claw
+		Tooltip: ""
+	}
+
+	GoldClaw: {
+		DisplayName: Gold Claw
+		Tooltip: Can mine Meteorite
+	}
+
+	PlatinumClaw: {
+		DisplayName: Platinum Claw
+		Tooltip: Can mine Meteorite
+	}
+
+	NightmareClaw: {
+		DisplayName: Demonite Claw
+		Tooltip: Able to mine Hellstone
+	}
+
+	DeathbringerClaw: {
+		DisplayName: Crimtane Claw
+		Tooltip: Able to mine Hellstone
+	}
+
+	MoltenClaw: {
+		DisplayName: Molten Claw
+		Tooltip: ""
+	}
 }

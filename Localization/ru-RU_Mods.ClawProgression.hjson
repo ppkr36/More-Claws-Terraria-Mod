@@ -3,4 +3,54 @@ Items: {
 		DisplayName: Медные когти
 		Tooltip: ""
 	}
+
+	TinClaw: {
+		DisplayName: Оловянные когти
+		Tooltip: ""
+	}
+
+	TungstenClaw: {
+		DisplayName: Вольфрамовые когти
+		Tooltip: ""
+	}
+
+	SilverClaw: {
+		DisplayName: Серебряные когти
+		Tooltip: ""
+	}
+
+	IronClaw: {
+		DisplayName: Железные когти
+		Tooltip: ""
+	}
+
+	LeadClaw: {
+		DisplayName: Свинцовые когти
+		Tooltip: ""
+	}
+
+	GoldClaw: {
+		DisplayName: Золотые когти
+		Tooltip: Может добывать метеорит
+	}
+
+	PlatinumClaw: {
+		DisplayName: Платиновые когти
+		Tooltip: Может добывать метеорит
+	}
+
+	NightmareClaw: {
+		DisplayName: Демонитовые когти
+		Tooltip: Может добывать адский камень
+	}
+
+	DeathbringerClaw: {
+		DisplayName: Кримтановые когти
+		Tooltip: Может добывать адский камень
+	}
+
+	MoltenClaw: {
+		DisplayName: Раскалённые когти
+		Tooltip: ""
+	}
 }
