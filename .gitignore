@@ -399,3 +399,32 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+# build output
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+
+# VS Code
+.vscode/
+
+# logs / caches
+*.log
+*.cache
+*.binlog
+
+# tModLoader built mod files
+*.tmod
+
+# OS junk
+.DS_Store
