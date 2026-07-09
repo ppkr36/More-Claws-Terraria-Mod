@@ -1,1 +1,13 @@
-Modify this file with a description of your mod.
+More Claws adds a new progression-based line of digging claws to Terraria.
+
+Digging claws are fast mining tools with reduced range, giving players an alternative to standard pickaxes without fully replacing them.
+
+Current content:
+- Copper Claws
+- Starting item support
+
+Planned content:
+- Full pre-Hardmode claw progression
+- Hardmode claw progression
+- Hallowed Claws
+- Zenith Claws

@@ -1,0 +1,4 @@
+Initial release:
+- Added Copper Claws
+- Added Copper Claws as a starting item
+- Added basic recipe
