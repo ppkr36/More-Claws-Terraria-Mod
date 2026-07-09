@@ -1,3 +1,6 @@
 - 0.2.0
 - added full pre-hardmod claw progression
 - добавлена вся пре-хардмодная прогрессия когтей
+-0.2.1
+- fixed crafts
+- изменены некоторые крафты
