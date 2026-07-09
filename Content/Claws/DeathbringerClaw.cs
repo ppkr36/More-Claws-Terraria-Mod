@@ -28,8 +28,8 @@ namespace ClawProgression.Content.Claws
         public override void AddRecipes()
         {
             Recipe recipe = CreateRecipe();
-            recipe.AddIngredient(ItemID.CrimtaneBar, 6);
-            recipe.AddRecipeGroup(RecipeGroupID.Wood, 12);
+            recipe.AddIngredient(ItemID.CrimtaneBar, 12);
+            recipe.AddIngredient(ItemID.TissueSample, 6);
             recipe.AddTile(TileID.Anvils);
             recipe.Register();
         }

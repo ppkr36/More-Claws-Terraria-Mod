@@ -28,8 +28,7 @@ namespace ClawProgression.Content.Claws
         public override void AddRecipes()
         {
             Recipe recipe = CreateRecipe();
-            recipe.AddIngredient(ItemID.HellstoneBar, 6);
-            recipe.AddRecipeGroup(RecipeGroupID.Wood, 12);
+            recipe.AddIngredient(ItemID.HellstoneBar, 20);
             recipe.AddTile(TileID.Anvils);
             recipe.Register();
         }
