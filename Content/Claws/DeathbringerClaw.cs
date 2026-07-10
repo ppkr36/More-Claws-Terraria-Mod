@@ -23,7 +23,7 @@ namespace ClawProgression.Content.Claws
             Item.tileBoost = -2;
             Item.UseSound = SoundID.Item1;
             Item.value = Item.sellPrice(silver: 50);
-            Item.rare = ItemRarityID.White;
+            Item.rare = ItemRarityID.Blue;
         }
         public override void AddRecipes()
         {

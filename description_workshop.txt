@@ -2,11 +2,48 @@
 
 
 More Claws is a progression-based tModLoader mod that adds a new line of digging claws to Terraria.
-So far only the pre-hardmode claws are ready, but I'll be adding 8 more soon.
+- Copper Claws
+- Tin Claws
+- Iron Claws
+- Lead Claws
+- Silver Claws
+- Tungsten Claws
+- Gold Claws
+- Platinum Claws
+- Demonite Claws
+- Crimtane Claws
+- Molten Claws
+- Cobalt Claws
+- Palladium Claws
+- Mythril Claws
+- Orichalcum Claws
+- Adamantite Claws
+- Titanium Claws
+- Hallow Claws
+- Zenith Claws
+
+
 
 More Claws — мод с прогрессией который добавляет множество новых шахтёрских когтей в игру
-Когти быстрее обычных кирок своего этапа, но имеют уменьшенную дальность.
-Пока-что готовы только когти пре-хардмода, но в скором времени добавлю ещё 8
 
-[quote=tModLoader ClawProgression]
-Developed By ppkr36[/quote]
+- Медные когти
+- Оловянные когти
+- Железные когти
+- Свинцовые когти
+- Серебряные когти
+- Вольфрамовые когти
+- Золотые когти
+- Платиновые когти
+- Демонитовые когти
+- Кримтановые когти
+- Адские когти
+- Кобальтовые когти
+- Палладиевые когти
+- Мифриловые когти
+- Орихалковые когти
+- Адамантитовые когти
+- Титановые когти
+- Святые когти
+- Когти Зенита
+
+

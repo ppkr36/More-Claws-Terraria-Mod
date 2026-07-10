@@ -6,31 +6,30 @@ using Terraria.ModLoader;
 
 namespace ClawProgression.Content.Claws
 {
-    public class NightmareClaw : ModItem
+    public class OrichalcumClaw : ModItem
     {
         public override void SetDefaults()
         {
             Item.DamageType = DamageClass.Melee;
-            Item.useTime = 10;
-            Item.useAnimation = 12;
-            Item.damage = 3;
-            Item.pick = 65;
+            Item.useTime = 7;
+            Item.useAnimation = 14;
+            Item.damage = 30;
+            Item.pick = 165;
             Item.width = 32;
             Item.height = 32;
             Item.useStyle = ItemUseStyleID.Swing;
             Item.useTurn = true;
-            Item.axe = 10;
+            Item.axe = 13;
             Item.tileBoost = -2;
             Item.UseSound = SoundID.Item1;
-            Item.value = Item.sellPrice(silver: 50);
-            Item.rare = ItemRarityID.Blue;
+            Item.value = Item.sellPrice(gold: 2);
+            Item.rare = ItemRarityID.LightRed;
         }
         public override void AddRecipes()
         {
             Recipe recipe = CreateRecipe();
-            recipe.AddIngredient(ItemID.DemoniteBar, 12);
-            recipe.AddIngredient(ItemID.ShadowScale, 6);
-            recipe.AddTile(TileID.Anvils);
+            recipe.AddIngredient(ItemID.OrichalcumBar, 15);
+            recipe.AddTile(TileID.MythrilAnvil);
             recipe.Register();
         }
     }

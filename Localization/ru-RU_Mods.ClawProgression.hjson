@@ -31,26 +31,82 @@ Items: {
 
 	GoldClaw: {
 		DisplayName: Золотые когти
-		Tooltip: Может добывать метеорит
+		Tooltip: Могут добывать метеорит
 	}
 
 	PlatinumClaw: {
 		DisplayName: Платиновые когти
-		Tooltip: Может добывать метеорит
+		Tooltip: Могут добывать метеорит
 	}
 
 	NightmareClaw: {
 		DisplayName: Демонитовые когти
-		Tooltip: Может добывать адский камень
+		Tooltip: Могут добывать адский камень
 	}
 
 	DeathbringerClaw: {
 		DisplayName: Кримтановые когти
-		Tooltip: Может добывать адский камень
+		Tooltip: Могут добывать адский камень
 	}
 
 	MoltenClaw: {
 		DisplayName: Раскалённые когти
 		Tooltip: ""
 	}
+
+	CobaltClaw: {
+		DisplayName: Кобальтовые когти
+		Tooltip: ""
+	}
+
+	PalladiumClaw: {
+		DisplayName: Паладиевые когти
+		Tooltip: ""
+	}
+
+	MythrilClaw: {
+		DisplayName: Мифриловые когти
+		Tooltip: ""
+	}
+
+	OrichalcumClaw: {
+		DisplayName: Орихалковые когти
+		Tooltip: ""
+	}
+
+	AdamantiteClaw: {
+		DisplayName: Адамантитовые когти
+		Tooltip: ""
+	}
+
+	TitaniumClaw: {
+		DisplayName: Титановые когти
+		Tooltip: ""
+	}
+
+	HallowClaw: {
+		DisplayName: Святые когти
+		Tooltip: Могут добывать хлорофит
+	}
+
+	ZenithClaw: {
+		DisplayName: Когти Зенита
+		Tooltip:
+			'''
+		Вершина развития копательных когтей
+			'''
+	}
 }
+
+RecipeGroups: {
+	CopperTinClaws: Медные или Оловянные Когти
+	IronLeadClaws: Железные или Свинцовые Когти
+	SilverTungstenClaws: Серебрянные или Вольфрамовые Когти
+	GoldPlatinumClaws: Золотые или Платиновые Когти
+	DemoniteCrimtaneClaws: Демонитовые или Кримтановые Когти
+	CobaltPalladiumClaws: Кобальтовые или Паладиевые Когти
+	MythrilOrichalcumClaws: Мифриловые или Орихалковые Когти
+	AdamantiteTitaniumClaws: Адамантитовые или Титановые Когти
+}
+
+// Projectiles.ZenithClawWaveProjectile.DisplayName: Zenith Claw Wave Projectile

@@ -53,4 +53,61 @@ Items: {
 		DisplayName: Molten Claw
 		Tooltip: ""
 	}
+
+	CobaltClaw: {
+		DisplayName: Cobalt Claw
+		Tooltip: ""
+	}
+
+	PalladiumClaw: {
+		DisplayName: Palladium Claw
+		Tooltip: ""
+	}
+
+	MythrilClaw: {
+		DisplayName: Mythril Claw
+		Tooltip: ""
+	}
+
+	OrichalcumClaw: {
+		DisplayName: Orichalcum Claw
+		Tooltip: ""
+	}
+
+	AdamantiteClaw: {
+		DisplayName: Adamantite Claw
+		Tooltip: ""
+	}
+
+	TitaniumClaw: {
+		DisplayName: Titanium Claw
+		Tooltip: ""
+	}
+
+	HallowClaw: {
+		DisplayName: Hallow Claw
+		Tooltip: Can mine chlorophyt
+	}
+
+	ZenithClaw: {
+		DisplayName: Zenith Claw
+		Tooltip:
+			'''
+			The culmination of the digging claw progression
+			Right click to release a block-destroying wave of claws
+			'''
+	}
 }
+
+RecipeGroups: {
+	CopperTinClaws: Copper or Tin Claws
+	IronLeadClaws: Iron or Lead Claws
+	SilverTungstenClaws: Silver or Tungsten Claws
+	GoldPlatinumClaws: Gold or Platinum Claws
+	DemoniteCrimtaneClaws: Demonite or Crimtane Claws
+	CobaltPalladiumClaws: Cobalt or Palladium Claws
+	MythrilOrichalcumClaws: Mythril or Orichalcum Claws
+	AdamantiteTitaniumClaws: Adamantite or Titanium Claws
+}
+
+Projectiles.ZenithClawWaveProjectile.DisplayName: Zenith Claw Wave Projectile

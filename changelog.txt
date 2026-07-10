@@ -1,6 +1,20 @@
-- 0.2.0
-- added full pre-hardmod claw progression
-- добавлена вся пре-хардмодная прогрессия когтей
--0.2.1
-- fixed crafts
-- изменены некоторые крафты
+1.0.0 added full progression
+added:
+- Cobalt Claws
+- Palladium Claws
+- Mythril Claws
+- Orichalcum Claws
+- Adamantite Claws
+- Titanium Claws
+- Hallow Claws
+- Zenith Claws
+
+добавлены:
+- Кобальтовые Когти
+- Палладиевые Когти
+- Мифриловые Когти
+- Орихалковые Когти
+- Адамантитовые Когти
+- Титановые Когти
+- Святые Когти
+- Когти Зенита

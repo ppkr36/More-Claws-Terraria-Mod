@@ -6,15 +6,15 @@ using Terraria.ModLoader;
 
 namespace ClawProgression.Content.Claws
 {
-    public class NightmareClaw : ModItem
+    public class CobaltClaw : ModItem
     {
         public override void SetDefaults()
         {
             Item.DamageType = DamageClass.Melee;
-            Item.useTime = 10;
-            Item.useAnimation = 12;
-            Item.damage = 3;
-            Item.pick = 65;
+            Item.useTime = 9;
+            Item.useAnimation = 14;
+            Item.damage = 10;
+            Item.pick = 110;
             Item.width = 32;
             Item.height = 32;
             Item.useStyle = ItemUseStyleID.Swing;
@@ -22,14 +22,13 @@ namespace ClawProgression.Content.Claws
             Item.axe = 10;
             Item.tileBoost = -2;
             Item.UseSound = SoundID.Item1;
-            Item.value = Item.sellPrice(silver: 50);
-            Item.rare = ItemRarityID.Blue;
+            Item.value = Item.sellPrice(gold: 1);
+            Item.rare = ItemRarityID.LightRed;
         }
         public override void AddRecipes()
         {
             Recipe recipe = CreateRecipe();
-            recipe.AddIngredient(ItemID.DemoniteBar, 12);
-            recipe.AddIngredient(ItemID.ShadowScale, 6);
+            recipe.AddIngredient(ItemID.CobaltBar, 15);
             recipe.AddTile(TileID.Anvils);
             recipe.Register();
         }
